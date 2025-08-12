@@ -4,7 +4,7 @@ Machine learning solution for predicting loan defaults using optimized XGBoost.
 
 ## Project Description
 This project compares multiple machine learning approaches for credit scoring:
-- Tested XGBoost, Random Forest, and other boosting algorithms
+- Tested Random Forest,XGBoost and other boosting algorithms
 - Optimized hyperparameters using F2-score  to prioritize default detection
 
 
@@ -44,5 +44,6 @@ Run notebooks in order:
    
 
    ML_scoring_training.ipynb
+
 
 
