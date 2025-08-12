@@ -10,6 +10,7 @@ This project compares multiple machine learning approaches for credit scoring:
 
 ## Repository Structure
 credit-scoring/
+
 ├── notebooks/
 
 │ ├── ML_scoring_preprocessing.ipynb # Data preprocessing
@@ -43,4 +44,5 @@ Run notebooks in order:
    
 
    ML_scoring_training.ipynb
+
 
